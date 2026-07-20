@@ -636,6 +636,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Improving HDFS I/O Utilization for Efficiency at Uber](https://eng.uber.com/improving-hdfs-i-o-utilization-for-efficiency/)
 	* [Cloud Jewels: Estimating kWh in the Cloud at Etsy](https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/)
 	* [Unthrottled: Fixing CPU Limits in the Cloud (2 parts) at Indeed](https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/)
+	* [Reproducible Private and Group Chat Benchmarking at JuggleIM](https://github.com/juggleim/im-server/blob/master/BENCHMARKS.md)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
 	* [Garbage Collection in Java Applications at LinkedIn](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 	* [Garbage Collection in High-Throughput, Low-Latency Machine Learning Services at Adobe](https://medium.com/adobetech/engineering-high-throughput-low-latency-machine-learning-services-7d45edac0271)
