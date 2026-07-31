@@ -73,7 +73,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
 * [Relying on Software to Redirect Traffic Reliably at Various Layers](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 * [Breaking Things on Purpose](https://www.usenix.org/conference/srecon17americas/program/presentation/andrus)
-* [Avoid Over Engineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+* [Avoid Over-Engineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 * [Scalability Worst Practices](https://www.infoq.com/articles/scalability-worst-practices)
 * [Use Solid Technologies - Don’t Re-invent the Wheel - Keep It Simple!](https://medium.com/@DataStax/instagram-engineerings-3-rules-to-a-scalable-cloud-application-architecture-c44afed31406)
 * [Simplicity by Distributing Complexity](https://engineering.zalando.com/posts/2018/01/simplicity-by-distributing-complexity.html)
