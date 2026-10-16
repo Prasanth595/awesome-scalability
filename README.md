@@ -826,6 +826,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Machine Learning in Content Moderation at Etsy](https://www.etsy.com/codeascraft/machine-learning-in-content-moderation-at-etsy)
 
 ## Architecture
+
+* [GraphFlow Interactive Distributed Systems Simulator](https://graph-flow-virid.vercel.app) - Real-time 60 FPS architecture topology and queuing physics simulator with chaos fault injection, FinOps multi-cloud cost estimation, and IaC export ([GitHub](https://github.com/Hanubaki/GraphFlow)).
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
 * [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 * [Building Services (4 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
